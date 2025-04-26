@@ -1,4 +1,3 @@
-import SongCarousel from "./SongCarousel";
 import "../animations/animate.css";
 import AnimatedBody from "../animations/AnimatedBody";
 import AnimatedTitle from "../animations/AnimatedTitle";
